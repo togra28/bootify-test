@@ -1,0 +1,21 @@
+{
+  "name": "my-app-frontend",
+  "author": "Bootify.io",
+  "scripts": {
+    "devserver": "vite --mode development",
+    "build": "vite build"
+  },
+  "allowScripts": {
+    "fsevents": true
+  },
+  "dependencies": {
+    "@popperjs/core": "2.11.8",
+    "bootstrap": "5.3.8"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.7.0",
+    "sass": "1.77.6",
+    "vite": "8.3.8"
+  },
+  "private": true
+}

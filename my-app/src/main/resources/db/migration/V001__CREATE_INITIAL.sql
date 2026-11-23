@@ -1,0 +1,8 @@
+CREATE SEQUENCE primary_sequence START WITH 10000 INCREMENT BY 1;
+
+CREATE TABLE todo (
+    id BIGINT NOT NULL,
+    todo VARCHAR(255),
+    bemerkung VARCHAR(255),
+    CONSTRAINT PK_TODO PRIMARY KEY (id)
+);
