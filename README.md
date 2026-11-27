@@ -14,3 +14,10 @@ erstellen:
 
 und ausführen:
 https://probable-space-happiness-pgvrx5xwgvq374jp-8080.app.github.dev/todos
+
+
+next: data.json
+ist ein Test um AppScript zu ersetzen: html ausfüllen und data.json schreiben
+index.html -> eingabe der Daten
+data.json  -> Ergebnis
+
